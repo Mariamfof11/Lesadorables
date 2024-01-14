@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+    margin: 10px, 80px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.articles .right p {
+    margin-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}
+
+/* footer */
+.social-media {
+    display: flex;
+    column-gap: 40px;
+    margin-left: 2000px;
+
+}
+
+.social-media p i {
+    font-size: 40px;
+}
+
+a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+p {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+}

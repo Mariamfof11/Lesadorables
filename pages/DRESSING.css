@@ -1,0 +1,68 @@
+.left img {
+    width: 700px;
+    height: 500px;
+}
+
+.articles {
+    width: 80%;
+}
+
+.DRESSING {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.right .articles p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.lien {
+    margin-left: 800px;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.social-media {
+    display: flex;
+    column-gap: 40px;
+    margin-left: 2000px;
+    height: 60px;
+    width: auto;
+
+}
+
+
+a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a {
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+label {
+    font-size: 50px;
+}
+
+textarea {
+    font-size: 20px;
+}
